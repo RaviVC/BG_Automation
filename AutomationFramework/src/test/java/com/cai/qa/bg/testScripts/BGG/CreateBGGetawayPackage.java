@@ -19,7 +19,8 @@ public class CreateBGGetawayPackage extends BaseTest {
 	@Test
 	public void Launch(){
 		test = extent.createTest("Launch BGG");
-		test.log(Status.INFO,"Test Case Execution Started");
+		test.log(Status.INFO,"Test Case Execution has Started");
 		launchApp(CONFIG.getProperty("BGG_URL"), "stg");
+		
 	}
 }
