@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="66" started-at="2019-09-16T10:21:27Z" finished-at="2019-09-16T10:21:27Z">
+    <groups>
+      <group name="regression">
+        <method signature="TestNGGroups.Test3()[pri:0, instance:com.cai.qa.bg.utils.TestNGGroups@724af044]" name="Test3" class="com.cai.qa.bg.utils.TestNGGroups"/>
+      </group> <!-- regression -->
+    </groups>
+    <test name="Test" duration-ms="66" started-at="2019-09-16T10:21:27Z" finished-at="2019-09-16T10:21:27Z">
+      <class name="com.cai.qa.bg.utils.TestNGGroups">
+        <test-method status="PASS" signature="Test3()[pri:0, instance:com.cai.qa.bg.utils.TestNGGroups@724af044]" name="Test3" duration-ms="17" started-at="2019-09-16T15:51:27Z" finished-at="2019-09-16T15:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+      </class> <!-- com.cai.qa.bg.utils.TestNGGroups -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
